@@ -5,4 +5,4 @@ ANDERSON, T. W. (2003). An Introduction to Multivariate Statistical Analysis Thi
 定めた有意水準に対してその検定統計量で母固有値の信頼区間が与えられるのかを検証しています．
 pdfファイルは19ページあるので，ダウンロードしてお読みいただくことをオススメします．
 # Code
-実行しているコードは主に[R言語](https://github.com/ShoShohh/T.W.Anderson-2003-_Conf/tree/main/with%20R)ですが，同様の出力を行うような[Python]()も載せています．
+実行しているコードは主に[R言語](https://github.com/ShoShohh/T.W.Anderson-2003-_Conf/tree/main/with%20R)ですが，同様の出力を行うような[Python]()も（準備でき次第）載せています．
