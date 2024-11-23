@@ -1,4 +1,9 @@
 # T.W.Anderson-2003-_Conf
+
+## 注意
+**pdfは公開停止しています．**
+コードは公開しているので，[Anderson(2003)](https://www.wiley.com/en-us/An+Introduction+to+Multivariate+Statistical+Analysis%2C+3rd+Edition-p-9780471360919)の輪読にご活用ください．
+
 ANDERSON, T. W. (2003). An Introduction to Multivariate Statistical Analysis Third Edition. Wiley, New Yorkでは，
 主成分分析における母固有値の推定に向けて漸近的な検定統計量が与えられます．
 この[記事](https://github.com/ShoShohh/T.W.Anderson-2003-_Conf/blob/main/Anderson(2003)_Conf.pdf)では，
